@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productponnect",
+        "uuid": 34365998,
+        "checksum": "g52k7s"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
